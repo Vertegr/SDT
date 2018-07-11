@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used to by products.md to display all of documents in
+	the _products/ collection
+{% endcomment %}
+
+{% include breadcrumbs.html %}
+
+<div class="container pure-g">
+	<div class="pure-u-1">
+		<div class="content">
+			<div class="grid-layout">
+				<div class="container pure-g">
+					{% for product in site.products %}
+					<div class="pure-u-1 pure-u-md-1-3">
+						<div class="card">
+							<div class="card-header">
+							{% if product.banner_image and product.banner_image != "" %}
+							<img src="{{ product.banner_image | absolute_url }}" alt="{{ product.title }}">
+							{% else %}
+								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ product.title }}">
+							{% endif %}
+							</div>
+							<div class="card-body">
+								<h3><a href="{{ product.url | absolute_url }}">{{ product.title }}</a></h3>
+								<p>{{ product.sub_heading | slice: 0, 80 }}</p>
+							</div>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

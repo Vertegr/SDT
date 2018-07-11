@@ -1,0 +1,36 @@
+title: Strategic Data and Telecom, Inc.
+short_title: SDT, Inc.
+description: Apogee Call Accounting Software
+baseurl:
+permalink: "/:path/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+collections:
+  people:
+    output: true
+    permalink: "/about/:path/"
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: "/projects/:path/"
+  products:
+    output: true
+    permalink: "/products/:path/"
+# tag_page_layout: tag_page
+# tag_page_dir: tag
+jekyll-archives:
+  enabled: all
+  layout: "archive"
+gems:
+  - jekyll-menus
+  - jekyll-feed
+  - jekyll-archives
