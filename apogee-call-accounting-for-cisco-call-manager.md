@@ -36,7 +36,7 @@ Apogee Business Intelligence Suite provides a unique View into Cisco CDR and gen
 
 ## APOGEE MODELING
 
-In this brave new world of self-service the Apogee Business Intelligence Suite provides a framework to build your own custom Data Store – simplified with logical names and hierarchies.  Incorporate core metrics and custom KPIs for your needs. 
+In this brave new world of self-service the Apogee Business Intelligence Suite provides a framework to build your own custom Data Store – simplified with logical names and hierarchies.  Incorporate core metrics and custom KPIs for your needs.
 
 ## SQL INTEGRATION SERVICES
 
