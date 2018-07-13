@@ -53,6 +53,7 @@ fields:
   name: show_staff
   label: Show Staff?
   description: Enables a staff section that lists each person in the People collection
+  hidden: true
 - name: layout
   label: Layout
   type: text
