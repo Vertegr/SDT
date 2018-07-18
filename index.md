@@ -22,8 +22,9 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
+
 ---
-# SDT Inc.
+# SDT Inc. 1
 
 Strategic Data and Telecom, Inc. (SDT, Inc.) develops and markets innovative telecommunication record management and call accounting solutions designed to deliver critical telecom information that is essential for the effective business operations. Founded in 1980, SDT has been dedicated to remain at the forefront of the computer-telephony revolution and offer reliable, cost-effective, innovative, management reporting solutions that can be tailored to the demands of an ever-changing marketplace.
 
