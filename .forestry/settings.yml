@@ -7,19 +7,15 @@ collections:
 - path: _products
   label: Products
   create: all
-  default_front_matter_template: product
 - path: _people
   label: People
   create: all
-  default_front_matter_template: person
 - path: _posts
   label: Posts
   create: all
-  default_front_matter_template: post
 - path: _projects
   label: Projects
   create: all
-  default_front_matter_template: project
 - path: ''
   label: Pages
   create: all

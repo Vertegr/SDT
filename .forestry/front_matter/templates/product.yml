@@ -27,3 +27,8 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _products/apogee-desktop.md
+- _products/apogee-web-cloud.md
+- _products/apogee-bis.md
+- _products/apogee-enterprise.md

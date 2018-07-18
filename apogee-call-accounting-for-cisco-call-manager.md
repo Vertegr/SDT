@@ -27,8 +27,9 @@ menu:
   footer:
     weight: 5
     title: Apogee Call Accounting Software
+
 ---
-Apogee is an affordable, PC-based, fully featured software system for tracking call records from all major legacy PBXs and IP-based systems.   For over 35 years Apogee has been recognized as an industry-standard with the most feature-rich, cost-cutting, and productivity enhancing tools available.   Apogee is now raising the bar with the introduction of new data-centric features to meet the demands of organizations launching into the brave new world of self-service Business Intelligence. Test 123.
+Apogee is an affordable, PC-based, fully featured software system for tracking call records from all major legacy PBXs and IP-based systems.   For over 35 years Apogee has been recognized as an industry-standard with the most feature-rich, cost-cutting, and productivity enhancing tools available.   Apogee is now raising the bar with the introduction of new data-centric features to meet the demands of organizations launching into the brave new world of self-service Business Intelligence. Test 456.
 
 ## APOGEE VISUALIZATION
 
