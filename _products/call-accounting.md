@@ -5,7 +5,6 @@ date: 2018-08-07 18:16:41 +0000
 sub_heading: Complete Call Accounting System and Reporting for Windows
 banner_image: "/uploads/2018/08/07/opc2.jpg"
 slug: apogee-net-call-accounting
-published: false
 
 ---
 Apogee is an affordable, PC-based, fully featured software system for tracking call records from all major legacy PBXs and IP-based systems. For over 35 years Apogee has been recognized as an industry-standard with the most feature-rich, cost-cutting, and productivity enhancing tools available.
