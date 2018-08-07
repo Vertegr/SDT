@@ -3,20 +3,26 @@ new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
-collections:
-- path: _products
+sections:
+- type: directory
+  path: _products
   label: Products
   create: all
-- path: _people
+  match: "**/*"
+- type: directory
+  path: _people
   label: People
   create: all
-- path: _posts
+  match: "**/*"
+- type: jekyll-posts
   label: Posts
   create: all
-- path: _projects
+- type: directory
+  path: _projects
   label: Projects
   create: all
-- path: ''
+  match: "**/*"
+- type: jekyll-pages
   label: Pages
   create: all
 upload_dir: uploads
