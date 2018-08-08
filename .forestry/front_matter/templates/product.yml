@@ -29,6 +29,7 @@ fields:
   default: ''
 pages:
 - _products/call-accounting.md
+- _products/cloud-services.md
 - _products/apogee-desktop.md
 - _products/apogee-web-cloud.md
 - _products/apogee-bis.md
