@@ -3,7 +3,7 @@ title: Incoming Call Clusters
 tags: []
 date: 2018-08-08 06:04:29 +0000
 sub_heading: ''
-banner_image: ''
+banner_image: "/uploads/2018/08/07/opc2.jpg"
 slug: incoming-call-clusters
 
 ---
