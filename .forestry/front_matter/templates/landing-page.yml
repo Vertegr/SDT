@@ -61,6 +61,6 @@ fields:
   hidden: true
   default: home
 pages:
-- apogee-call-accounting-for-cisco-call-manager.md
-- call-sdt.md
 - index.md
+- call-sdt.md
+- apogee-call-accounting-for-cisco-call-manager.md
