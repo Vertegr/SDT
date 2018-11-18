@@ -28,7 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _projects/ascension-health-care.md
-- _projects/the-walt-disney-company.md
 - _projects/presence-health.md
+- _projects/the-walt-disney-company.md
+- _projects/ascension-health-care.md
 - _projects/west-cat.md
